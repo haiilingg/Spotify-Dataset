@@ -9,7 +9,10 @@ This dataset contains a csv table with 953 records, one for each track.
 [Data Source](https://onyxdata.ck.page/a12261b1fb)
 
 # 💡 Highlights
-- The Weeknd was the most streamed artist 
+- The Weeknd was the most streamed artist at 14.2 bilion streams 
+- The most streamed song is Blinding Lights by The Weeknd at 3.7 billion streams, that's nearly a quarter of The Weeknd's total streams!
+- More than half of the songs are in Major mode, while the distribution of the key is quite equal.
+- The year for highest streams was 2022 at 116 billion streams, nearly tripled the total streams in 2020 (24 billion streams).
 
 # 📊 Visualization
 Produced a 1-pager dashboard using Google Looker Studio.
